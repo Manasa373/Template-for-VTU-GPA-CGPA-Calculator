@@ -1,1 +1,1 @@
-# Template-for-VTU-GPA-CGPA-Calculator
+# Template-for-VTU-SGPA-CGPA-Calculator
